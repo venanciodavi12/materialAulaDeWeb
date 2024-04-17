@@ -1,0 +1,46 @@
+*{
+    border-left: 0px;
+    margin-left: 0px;
+    border-top: 0px;
+    margin-top: 0px;
+    border-right: 0px;
+    margin-right: 0px;
+    border-bottom: 0px;
+    margin-bottom: 0px;
+}
+#bgColor{
+    background-color: rgb(240, 240, 255);
+}
+#tituloPrincipal{
+    font-size: 80px;
+}
+.centralizado{
+    color: black;
+    text-align: center;
+}
+.espacamentoUL{
+    margin-left: 20px;
+}
+.liDiaAulaAuto{
+    font-size: 20px;
+}
+ul{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+body{
+    background: url("./_img/fundo.png");
+}
+h1, h2, h3, h4, h5, h6{
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+p{
+    margin-left: 20px;
+    margin-bottom: 5px;
+}
+ul{
+    margin-left: 25px;
+    margin-bottom: 5px;
+}

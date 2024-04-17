@@ -1,0 +1,1 @@
+window.alert("OLÁ!\nBem Vindo!\nEu ainda estou desenvolvendo esse site, por isso ele ainda não está pronto, mas já tem alguns recursos disponíveis!\nAguarde até as próximas mudanças!");
